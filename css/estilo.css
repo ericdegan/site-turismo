@@ -41,7 +41,7 @@ h1 a:hover{
     border:1px solid #05386b;
     margin: 10px 10px 0 0;
     padding: 2px;
-    background: tomato;
+    background: rgb(171, 245, 255);
     float: left; 
     /*para deixar em escala de preto e branco
     escala de 0.0 - 1.0  
@@ -59,5 +59,17 @@ h1 a:hover{
 }
 
 .lugares{
-    border: 20px color rgb(245, 8, 8);
+   width: 660px;
+   float: left;
+}
+.lateral{
+    background: #8ee4af;
+    border: 1px solid #379683;
+    padding: 10px;
+    width: 260px;
+    float: right;
+}
+.rodape{
+    font-size: 15px;
+    text-align: center;
 }
